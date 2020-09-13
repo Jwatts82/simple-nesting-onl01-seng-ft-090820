@@ -55,7 +55,7 @@ def dennis_ritchies_language
           :languages => ["C"]
         }
      }
-  arrayprogrammer_hash[:dennis_ritchie][:languages].split ("_")
+  array = programmer_hash[:dennis_ritchie][:languages].split ("_")
 end
 
 def adding_matz
